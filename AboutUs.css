@@ -19,6 +19,10 @@ body{
 #about_paragraph{
     width: 100%;
 }
+html:hover #about_paragraph .paragraph1 p{
+    opacity: 1;
+    transition: 0.4s;
+}
 #about_paragraph .paragraph1{
     position: relative;
     width: 100%;
@@ -47,6 +51,8 @@ body{
 }
 #about_paragraph .paragraph1 p{
     position: absolute;
+    opacity: 0;
+    transition: 0.4s 1000s;
     width: 800px;
     text-align: center;
     top: 150px;
