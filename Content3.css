@@ -1,0 +1,173 @@
+#content3{
+    margin-top: 5px;
+    width: 100%;
+    height: 580px;
+}
+
+/* Lynn Switches */
+#content3 .content3_1{
+    background: white;
+    float: left;
+    width: 500px;
+    height: 100%;
+    position: relative;
+}
+#content3 .content3_1 .title3_1{
+    position: absolute;
+    width: 250px;
+    height: 120px;
+    left: 125px;
+    top: 40px;
+    font-family: "Square721 BT Roman";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+#content3 .content3_1 .text3_1{
+    position: absolute;
+    width: 420px;
+    top: 200px;
+    left: 40px;
+    font-size: 14px;
+}
+#content3 .content3_1 .button3_1{
+    background: #fdba3b;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 40px;
+    top: 280px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+#content3 .content3_1 .button3_1:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background: greenyellow;
+}
+#content3 .content3_1 img{
+    width: 70%;
+    position: absolute;
+    bottom: 0px;
+    right: 15%;
+}
+
+/* Panda Switches */
+#content3 .content3_2{
+    background: whitesmoke;
+    float: left;
+    width: 500px;
+    height: 100%;
+    position: relative;
+}
+#content3 .content3_2 .title3_2{
+    position: absolute;
+    width: 250px;
+    height: 120px;
+    left: 125px;
+    top: 40px;
+    font-family: "Square721 BT Roman" ;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+#content3 .content3_2 .text3_2{
+    position: absolute;
+    width: 420px;
+    top: 200px;
+    left: 40px;
+    font-size: 14px;
+}
+#content3 .content3_2 .button3_2{
+    background: #fdba3b;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 40px;
+    top: 280px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+#content3 .content3_2 .button3_2:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background: greenyellow;
+}
+#content3 .content3_2 img{
+    width: 70%;
+    position: absolute;
+    bottom: 0px;
+    right: 15%;
+}
+
+/* Mousepads */
+#content3 .content3_3{
+    background: white;
+    float: left;
+    width: 500px;
+    height: 100%;
+    position: relative;
+}
+#content3 .content3_3 .title3_3{
+    position: absolute;
+    width: 250px;
+    height: 120px;
+    left: 125px;
+    top: 40px;
+    font-family: "Square721 BT Roman" ;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 40px;
+}
+#content3 .content3_3 .text3_3{
+    position: absolute;
+    width: 420px;
+    top: 200px;
+    left: 40px;
+    font-size: 14px;
+}
+#content3 .content3_3 .button3_3{
+    background: #fdba3b;
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    left: 40px;
+    top: 280px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+#content3 .content3_3 .button3_3:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background: greenyellow;
+}
+#content3 .content3_3 img{
+    width: 70%;
+    position: absolute;
+    bottom: 0px;
+    right: 15%;
+}

@@ -1,0 +1,93 @@
+#content4{
+    background: black;
+    margin-top: 5px;
+    width: 100%;
+    position: relative;
+}
+#content4 .button4{
+    background: #fdba3b;
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 40px;
+    transition: 0.4s;
+    position: absolute;
+    top: 350px;
+    left: 625px;
+    z-index: 1;
+}
+#content4 .button4:hover{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background: greenyellow;
+}
+#content4 .box4{
+    width: 100%;
+    height: 780px;
+    position: relative;
+    overflow: hidden;
+    transition: 0.4s;
+}
+#content4 .box4 img{
+    width: 100%;
+    transition: 0.4s;
+}
+#content4 .button4:hover + .box4{
+    opacity: 0.7;
+    transition: 0.4s;
+}
+#content4 .box4 .text4{
+    width: 180px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: white;
+    letter-spacing: 2px;
+    position: absolute;
+    top: 80px;
+    left: 660px;
+    transition: 0.4s;
+}
+#content4 .box4 .title4{
+    width: 420px;
+    height: 70px;
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 70px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: white;
+    position: absolute;
+    top: 110px;
+    left: 540px;
+    transition: 0.4s;
+}
+#content4 .button4:hover + .box4 .title4{
+    opacity: 0.5;
+    transition: 0.4s;
+}
+#content4 .box4 .title4 img{
+    width: 90px;
+    float: right;
+}
+#content4 .box4 .paragraph{
+    width: 550px;
+    text-align: center;
+    font-size: 14px;
+    word-spacing: 1px;
+    line-height: 25px;
+    color: white;
+    position: absolute;
+    top: 190px;
+    left: 485px;
+    transition: 0.4s;
+}
+#content4 .button4:hover + .box4 .paragraph{
+    opacity: 0.5;
+    transition: 0.4s;
+}
