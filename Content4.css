@@ -38,7 +38,7 @@
     transition: 0.4s;
 }
 #content4 .button4:hover + .box4{
-    opacity: 0.7;
+    opacity: 0.5;
     transition: 0.4s;
 }
 #content4 .box4 .text4{
@@ -67,10 +67,6 @@
     left: 540px;
     transition: 0.4s;
 }
-#content4 .button4:hover + .box4 .title4{
-    opacity: 0.5;
-    transition: 0.4s;
-}
 #content4 .box4 .title4 img{
     width: 90px;
     float: right;
@@ -85,9 +81,5 @@
     position: absolute;
     top: 190px;
     left: 485px;
-    transition: 0.4s;
-}
-#content4 .button4:hover + .box4 .paragraph{
-    opacity: 0.5;
     transition: 0.4s;
 }
